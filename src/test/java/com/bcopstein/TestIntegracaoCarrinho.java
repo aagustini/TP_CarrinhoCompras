@@ -1,14 +1,9 @@
 package com.bcopstein;
 
 import static org.junit.Assert.assertEquals;
-import static org.mockito.Matchers.intThat;
-import static org.mockito.Matchers.anyDouble;
-import static org.mockito.Mockito.mock;
-import static org.mockito.Mockito.when;
 
 import org.junit.Before;
 import org.junit.Test;
-import org.mockito.ArgumentMatcher;
 
 // http://static.javadoc.io/org.mockito/mockito-core/2.18.3/org/mockito/Mockito.html
 public class TestIntegracaoCarrinho {
