@@ -8,7 +8,7 @@ public class CotacaoImpl implements Cotacao{
            case REAL: 
                 return 3.8;
             case DOLAR:
-                return 1;
+                return 1.1;
             case EURO:
                 return 0.8;
             case PESOARG:
